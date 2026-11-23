@@ -52,8 +52,6 @@ body {
 	object-fit: cover;
 }
 
-.recipe-img:hover 
-
 .recipe-info {
 	display: flex;
 	flex-direction: column;
